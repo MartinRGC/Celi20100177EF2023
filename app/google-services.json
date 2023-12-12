@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916304406926",
+    "project_id": "examenfinal-8e024",
+    "storage_bucket": "examenfinal-8e024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916304406926:android:5728f5eaef23f597bddcdf",
+        "android_client_info": {
+          "package_name": "com.example.celi20100177ef2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrJ4AbsPAd-AKp_Bmmg-bIuqENzPS3I2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
